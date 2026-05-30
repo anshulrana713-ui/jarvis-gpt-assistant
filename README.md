@@ -50,7 +50,7 @@ Jarvis-GPT/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Jarvis-GPT.git
+git clone https://github.com/anshulrana713_ui/Jarvis-GPT.git
 cd Jarvis-GPT
 ```
 
@@ -63,5 +63,5 @@ pip install -r requirements.txt
 ## ▶️ Run the Assistant
 
 ```bash
-python chatbot1.py
+python main.py
 ```
