@@ -38,10 +38,11 @@ Jarvis-GPT/
 │   ├── jarvis.gif
 │   ├── mic.png
 │
-├── modules/
-│   ├── weather.py
-│   ├── speech.py
-│   └── controls.py
+├── features/
+│   ├── media.py
+│   ├── news.py
+│   └── system_controls.py
+    
 ```
 
 ## 🚀 Installation
