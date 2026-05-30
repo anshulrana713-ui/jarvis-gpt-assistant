@@ -1,0 +1,10 @@
+google-generativeai
+customtkinter
+Pillow
+SpeechRecognition
+pyautogui
+screen-brightness-control
+pyaudio
+pywhatkit
+requests
+feedparser
